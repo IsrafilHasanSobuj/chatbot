@@ -1,0 +1,14 @@
+{
+  "name": "sobuj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sobuj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sobuj",
+  "license": "MIT",
+  "dependencies": {
+    "claudia-bot-builder": "^4.0.0"
+  }
+}
